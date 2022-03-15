@@ -906,6 +906,7 @@
 - NthPortal/spaghetti
 - NthPortal/v
 - ocadotechnology/sttp-oauth2
+- odenzo/etrade-client-lib
 - odenzo/scala3-template
 - olafurpg/sbt-ci-release
 - openzipkin/zipkin-finagle
